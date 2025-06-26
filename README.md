@@ -1,5 +1,8 @@
 # PregnancyHypertension-Prediction
-Prediction model for pregnancy hypertensive disorders that arise after 20 weeks of gestation: Preeclampsia Hypertension, Gestational Hypertension and Eclampsia.
+Prediction model for pregnancy hypertensive disorders that arise after 20 weeks of gestation:
+1) Preeclampsia
+2) Gestational
+3) Eclampsia
 
 # Steps to run code:
 1) Before running, choose your configuration settings in the sector "Main Project Model Pipeline" which is located at the bottom of the ipynb file (default values can be used):
